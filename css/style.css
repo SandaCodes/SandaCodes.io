@@ -1,3 +1,7 @@
+html  {
+  scroll-behavior: smooth;
+}
+
 h3 {
   color: #66BFBF;
   text-align: center;
